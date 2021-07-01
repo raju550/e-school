@@ -23,7 +23,7 @@ body {
 .color-slide {
   color: #21b573;
 }
-.container {
+.container1 {
   margin-bottom: 50px;
 }
 .button-get {
@@ -62,4 +62,26 @@ body {
 }
 .mar-item {
   margin-top: 40px;
+}
+.mens img {
+  width: 100px;
+}
+.item-contain {
+  width: 700px;
+}
+.top-item {
+  margin-top: 50px;
+}
+.footer {
+  background-color: #282531;
+}
+.footer-item {
+  color: #fff;
+}
+.item1 {
+  width: 400px;
+}
+.footer-item {
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
